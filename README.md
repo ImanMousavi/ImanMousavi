@@ -8,7 +8,7 @@
                                                                                              
 ```
 
-- 👋 I'm iman mousavi, a self-taught backend and devops engineer, I'm currently looking for my next opportunity!
+> I'm iman mousavi, a self-taught backend and devops engineer, I'm currently looking for my next opportunity!
 
 ```go
 whoAmI := map[string]interface{}{
