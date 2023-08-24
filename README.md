@@ -24,8 +24,8 @@ whoAmI := map[string]interface{}{
 ## 🧮 Things, quantified
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=radical&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadne&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImanMousavi&show_icons=true&theme=radical&line_height=40">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanMousavi&theme=radical">
 </p>
 
 <!-- <p align = "center">
@@ -33,5 +33,5 @@ whoAmI := map[string]interface{}{
 </p> -->
 
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImanMousavi&show_icons=true&theme=radical"/>
 </p>
